@@ -79,4 +79,4 @@ def change_page(target_page, current_page):
 
 if __name__ == "__main__":
 
-    app.run_server(debug=False, port=80, host='195.35.52.106')
+    app.run_server(debug=False, port=80, host='195.35.52.106:8080')
